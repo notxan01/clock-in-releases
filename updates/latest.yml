@@ -1,8 +1,8 @@
-version: 0.1.68
+version: 0.1.69
 files:
-  - url: Clock-In-App-Setup-0.1.68.exe
-    sha512: 2WLvW8ZHLSRbIXxnwZN9hq7fxp7r4FxiB+ssFcDXmKrB439iprXsurh+34AUlyVNSWeLKm/wtwf6+9tjkWuSng==
-    size: 90823784
-path: Clock-In-App-Setup-0.1.68.exe
-sha512: 2WLvW8ZHLSRbIXxnwZN9hq7fxp7r4FxiB+ssFcDXmKrB439iprXsurh+34AUlyVNSWeLKm/wtwf6+9tjkWuSng==
-releaseDate: '2026-03-30T05:37:40.999Z'
+  - url: Clock-In-App-Setup-0.1.69.exe
+    sha512: QlUMGtzAmqFS26grXgpb3CQ+ijUhS3vHGoPvfpnXTCF344qRB/nj+9UB6OMJbFtiIgk9l0i6HqfuJr1J0wWDTA==
+    size: 90824761
+path: Clock-In-App-Setup-0.1.69.exe
+sha512: QlUMGtzAmqFS26grXgpb3CQ+ijUhS3vHGoPvfpnXTCF344qRB/nj+9UB6OMJbFtiIgk9l0i6HqfuJr1J0wWDTA==
+releaseDate: '2026-03-30T05:56:47.065Z'
