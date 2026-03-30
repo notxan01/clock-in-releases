@@ -1,0 +1,11 @@
+version: 0.1.64
+files:
+  - url: Clock-In-App-0.1.64.zip
+    sha512: EQBTq/PzgfoHcHbud+u2ud6djMdrX0GvC4u64rp77jAj4hVeGHdY/ay9LY+EAtAZ3Svp3WgVXoBi8kYkCiAImg==
+    size: 108577192
+  - url: Clock-In-App-0.1.64.dmg
+    sha512: 6W1hnatvukhiDGSpBug8yZXiKn4XHJj1CS+1uAdHRViC+RCNV/RxYQF1GASErUKL1EQJxYZqt+tVmkMJ8iM2jg==
+    size: 112355934
+path: Clock-In-App-0.1.64.zip
+sha512: EQBTq/PzgfoHcHbud+u2ud6djMdrX0GvC4u64rp77jAj4hVeGHdY/ay9LY+EAtAZ3Svp3WgVXoBi8kYkCiAImg==
+releaseDate: '2026-03-30T04:01:06.989Z'
