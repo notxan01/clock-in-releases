@@ -1,11 +1,11 @@
 version: 0.1.75
 files:
-  - url: Clock-In-App-0.1.75.zip
+  - url: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.75.zip
     sha512: L05o4Y0L6n4DBb/GPXsxI9uKgqHbHHx8zKnYRrSrj1TEIGXQ5bXKfF2yTNQEcF8xKQT5Ues063OJMHDZeF/krg==
     size: 109041508
-  - url: Clock-In-App-0.1.75.dmg
+  - url: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.75.dmg
     sha512: 5O9TIYtlgGbJsfCCTle2+hDHeXA6zJySc4Pwm6cg1dSDo+pSRIJpu/oD6VNdCSZhoyHYCrxXqDhbTyD8PUwe/w==
     size: 113118739
-path: Clock-In-App-0.1.75.zip
+path: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.75.zip
 sha512: L05o4Y0L6n4DBb/GPXsxI9uKgqHbHHx8zKnYRrSrj1TEIGXQ5bXKfF2yTNQEcF8xKQT5Ues063OJMHDZeF/krg==
 releaseDate: '2026-04-01T12:17:58.485Z'
