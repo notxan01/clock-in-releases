@@ -1,11 +1,11 @@
 version: 0.1.76
 files:
-  - url: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.zip
+  - url: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.zip
     sha512: d6I8WhorwbpfprfrXpuiiczbyCUE6FUpLrtPLwYiD6jASvLW8h6aXYX9XKPZec4drxH523wivRn7wCewDDmqdw==
     size: 107906326
-  - url: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.dmg
+  - url: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.dmg
     sha512: myS7jTnImJAdh7coqv3GZQzdwrtnFQZtBPU/6zRheTRRFtQDEUwm/A7Xx2GvnSCZgr5ecjTUrHxDhEHzOwBLWg==
     size: 111963309
-path: https://media.githubusercontent.com/media/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.zip
+path: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-0.1.76.zip
 sha512: d6I8WhorwbpfprfrXpuiiczbyCUE6FUpLrtPLwYiD6jASvLW8h6aXYX9XKPZec4drxH523wivRn7wCewDDmqdw==
 releaseDate: '2026-04-02T03:27:08.908Z'
