@@ -1,8 +1,8 @@
-version: 0.1.114
+version: 0.1.115
 files:
-  - url: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-Setup-0.1.114.exe
-    sha512: K0JN4OrRB1TzbJr/eV5FiXPvSgQC3kVe0WghvygITWJFknGJ/5W7yFtvwQuSCN9AjSp+uiqhCCQqZH38IUikFQ==
-    size: 91525764
-path: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-Setup-0.1.114.exe
-sha512: K0JN4OrRB1TzbJr/eV5FiXPvSgQC3kVe0WghvygITWJFknGJ/5W7yFtvwQuSCN9AjSp+uiqhCCQqZH38IUikFQ==
-releaseDate: '2026-04-06T11:14:21.005Z'
+  - url: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-Setup-0.1.115.exe
+    sha512: OA+6NxVIAPOJZi5YsLdR1Fla3LIRWBuY/8ll0/Fz/DbSpVwpToGeRlHS+VjhCMDEfkzFp5LsNhf+w/JBcnG/5w==
+    size: 96675445
+path: https://raw.githubusercontent.com/notxan01/clock-in-releases/main/updates/Clock-In-App-Setup-0.1.115.exe
+sha512: OA+6NxVIAPOJZi5YsLdR1Fla3LIRWBuY/8ll0/Fz/DbSpVwpToGeRlHS+VjhCMDEfkzFp5LsNhf+w/JBcnG/5w==
+releaseDate: '2026-04-06T11:40:48.396Z'
